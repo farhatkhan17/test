@@ -1,0 +1,5 @@
+{{#user}
+Name: Farhat Khan
+Skills: HTML, CSS, JS, DOM, Gsap, responsive web design, Textillate.js, node.js, mongoDB, Express.js, bootstrap.
+Email: farhatkhan17july@gmail.com
+{{/user}}
